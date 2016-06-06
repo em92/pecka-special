@@ -1,0 +1,10 @@
+{
+  "name": "pecka-special",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "dateformat": "^1.0.12",
+    "express": "^4.13.4"
+  }
+}
